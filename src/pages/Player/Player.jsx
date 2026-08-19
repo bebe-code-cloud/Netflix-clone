@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Player.css";
+import "./Player.css";
 const Player = () => {
   return <div className="player"></div>;
 };

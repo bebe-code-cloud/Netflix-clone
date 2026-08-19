@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./TitileCarde.css";
+import "./TitileCarde.css";
 const TitileCarde = () => {
   return <div className="titleCarde"></div>;
 };
